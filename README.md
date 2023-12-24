@@ -9,5 +9,5 @@ Enter into the console
       php artisan serve  
       npm run build 
 
-Кegister and login to project.
+Register and login to project.
       
