@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.standarts-form-button-block .right-block .button-st {
+  padding: 8px 19px;
+  margin-top: 0;
+}
+.main .regular-button.green-dark-btn {
+  background-color: #3B9E1E;
+  border-color: #3B9E1E;
+  color: white;
+}
+.regular-button {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  /* background-color: #30709F; */
+  background-color: #3b9e1e;
+  padding: 5px 30px;
+  text-align: center;
+  border-radius: 25px;
+  display: inline-block;
+  border: 2px solid #30709F;
+  transition: 500ms;
+  font-family: "Helvetica";
+  margin: 10px;
+}
